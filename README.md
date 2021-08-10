@@ -1,2 +1,2 @@
-# Estudos
-Repositório com meus materiais de estudo.
+# Projetos-Estudos
+Repositório com meus projetos.
